@@ -1,8 +1,2 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{\numberline {1}Seminar 1}{4}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Aufgabe 1 - Werkzeugkategorien}{4}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Aufgabe 2 - GitHub}{4}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Aufgabe 3 - Versionsverwaltung}{5}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Aufgabe 4 - Entwicklungsumgebungen}{6}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Aufgabe 5 - Dokumentation}{6}{subsection.1.5}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
