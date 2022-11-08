@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.8)  8 NOV 2022 13:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.8)  8 NOV 2022 19:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -453,9 +453,7 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) (./titelpage.tex [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+)) (./titelpage.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -493,7 +491,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--8
 
  []
 
-<tu_logo.jpg, id=10, 156.585pt x 52.5162pt>
+<tu_logo.jpg, id=4, 156.585pt x 52.5162pt>
 File: tu_logo.jpg Graphic file (type jpg)
 <use tu_logo.jpg>
 Package pdftex.def Info: tu_logo.jpg  used on input line 12.
@@ -520,41 +518,32 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 31.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 31.
- [2
+ [1
 
- <./tu_logo.jpg>] (./main.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 3.
-)
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./tu_logo.jpg>] (./main.toc)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-) [3
+) [2
 
-] (./aufgabe1.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 13.
- (/usr/share/texmf-dist/tex/latex/lm/ts1lmss.fd
-File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 43.
- [4] [5] [6]) [7] (./main.aux)
+] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13660 strings out of 478238
- 240155 string characters out of 5850456
- 674581 words of memory out of 5000000
- 31696 multiletter control sequences out of 15000+600000
- 513105 words of font info for 54 fonts, out of 8000000 for 9000
+ 13572 strings out of 478238
+ 238462 string characters out of 5850456
+ 669581 words of memory out of 5000000
+ 31636 multiletter control sequences out of 15000+600000
+ 506325 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,8n,106p,10651b,555s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb>
-Output written on main.pdf (7 pages, 180166 bytes).
+ 108i,6n,106p,10651b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on main.pdf (2 pages, 133838 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 35 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
