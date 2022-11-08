@@ -1,34 +1,30 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.8)  8 NOV 2022 17:07
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.8)  8 NOV 2022 23:09
->>>>>>> a2aa333b7802fc416f1d81d340d7064ba470fc56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.8)  8 NOV 2022 23:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/marius/Desktop/Marketing/Marketing/main.tex
-(/home/marius/Desktop/Marketing/Marketing/main.tex
+**/home/ossi/github/Marketing/main.tex
+(/home/ossi/github/Marketing/main.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
+L3 programming layer <2022-04-10> (/usr/share/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2021/11/13 v3.35 KOMA-Script document class (article)
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+ (/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
 Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+ (/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+ (/usr/share/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
 Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+ (/usr/share/texmf-dist/tex/latex/koma-script/scrlogo.sty
 Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
-))) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+))) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
 Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
-)) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+)) (/usr/share/texmf-dist/tex/latex/koma-script/tocbasic.sty
 Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip47
 \scr@dte@tocline@numbox=\box50
@@ -36,9 +32,9 @@ Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
 Package tocbasic Info: babel extension for `toc' omitted
 (tocbasic)             because of missing \bbl@set@language on input line 135.
 Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input line 2242.
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+ (/usr/share/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
 File: scrsize11pt.clo 2021/11/13 v3.35 KOMA-Script font size class option (11pt)
-) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+) (/usr/share/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2021/11/13 v3.35 KOMA-Script package (type area)
 \ta@bcor=\skip48
 \ta@div=\count185
@@ -82,9 +78,6 @@ Class scrartcl Info: using compatibility default `afterindent=false'
 (scrartcl)           for `\part on input line 4860.
 \scr@dte@subsection@maxnumwidth=\skip55
 Class scrartcl Info: using compatibility default `runin=bysign'
-<<<<<<< HEAD
-(scrartcl)           for `\subsection on input line 48
-=======
 (scrartcl)           for `\subsection on input line 4870.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
 (scrartcl)           for `\subsection on input line 4870.
@@ -503,28 +496,28 @@ File: tu_logo.jpg Graphic file (type jpg)
 <use tu_logo.jpg>
 Package pdftex.def Info: tu_logo.jpg  used on input line 12.
 (pdftex.def)             Requested size: 160.04674pt x 53.67879pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 31.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 30.
 (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 31.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 30.
  (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 31.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 30.
  (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 31.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 30.
  (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 31.
+(Font)              <12> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 31.
+(Font)              <8> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 31.
+(Font)              <6> on input line 30.
  [1
 
 
@@ -547,11 +540,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  108i,6n,106p,10651b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on main.pdf (2 pages, 136043 bytes).
+Output written on main.pdf (2 pages, 133841 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
->>>>>>> a2aa333b7802fc416f1d81d340d7064ba470fc56

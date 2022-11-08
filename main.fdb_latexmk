@@ -1,28 +1,5 @@
 # Fdb version 3
-<<<<<<< HEAD
-["pdflatex"] 1667923661 "/home/marius/Desktop/Marketing/Marketing/main.tex" "main.pdf" "main" 1667923661
-  "/etc/texmf/web2c/texmf.cnf" 1661076781 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/marius/Desktop/Marketing/Marketing/main.tex" 1667923660 1321 d7cfe8fd22bb99bac5a3c0366bb2ef3c ""
-  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
-  "/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty" 1312311212 25776 d28bd6d82f168f8cb2268584b67a2a98 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty" 1622581934 2671 4de6781a30211fe0ea4c672e4a2a8166 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls" 1637529091 233526 8fb61d6ba408819abc218e59135c021f ""
-  "/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty" 1637529091 99856 6cbb9d59d820d727b2acbf2edddcf8c8 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty" 1637529091 21809 660eea2921bba49c8ba50045d5b71887 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty" 1637529091 11081 5538240709a5dbcdc97e4d1524f034a8 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty" 1637529091 3225 54deb0fdd4552a94c6525a4a8ff74efc ""
-  "/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty" 1637529091 1954 94f3677c5f3a58b3854eb25278202694 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize11pt.clo" 1637529091 6383 ef64837f823bf09084949d61ab88b133 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty" 1637529091 107099 32be8c26e58788fe2c40d02a36b4486c ""
-  "/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty" 1637529091 56073 759db929335307786c6fae3cee68c3f8 ""
-  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
-  "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1667906391 2798766 c14aec129f95fcbcbf6a40c1a316417b ""
-  "main.aux" 1667918519 3889 8801b7d8ee9098b170c651e9779dcacc "pdflatex"
-  "main.tex" 1667923660 1321 d7cfe8fd22bb99bac5a3c0366bb2ef3c ""
-=======
-["pdflatex"] 1667945364 "/home/ossi/github/Marketing/main.tex" "main.pdf" "main" 1667945365
+["pdflatex"] 1667947473 "/home/ossi/github/Marketing/main.tex" "main.pdf" "main" 1667947474
   "/home/ossi/github/Marketing/main.tex" 1667944698 1323 2125cd5279ac9be7bf9d38db90341258 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1650183167 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -116,13 +93,15 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1667925064 334215 ad2feb41952e3720830b65f83a01c5b0 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1667925064 2927665 9061c8d6ca65bafc3705c48cf216fdd8 ""
-  "main.aux" 1667945365 933 216e4c50816d192243418519d074240d "pdflatex"
+  "main.aux" 1667947474 933 216e4c50816d192243418519d074240d "pdflatex"
   "main.out" 0 -1 0 "pdflatex"
   "main.tex" 1667944698 1323 2125cd5279ac9be7bf9d38db90341258 ""
-  "main.toc" 1667945365 95 266fb778c506bbca413fec0c0a8f3005 "pdflatex"
-  "titelpage.tex" 1667945364 1448 48d4b32f5aa2675f376bcc0b45235ed7 ""
+  "main.toc" 1667947474 95 266fb778c506bbca413fec0c0a8f3005 "pdflatex"
+  "titelpage.tex" 1667947473 1393 f9fb3ffa38597d84b95f27339dddad26 ""
   "tu_logo.jpg" 1667930871 65010 33fe856df9b89464938ac16cdb4721cb ""
->>>>>>> a2aa333b7802fc416f1d81d340d7064ba470fc56
   (generated)
+  "main.aux"
   "main.log"
+  "main.out"
   "main.pdf"
+  "main.toc"
