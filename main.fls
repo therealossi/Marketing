@@ -696,10 +696,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/lmmi10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 OUTPUT main.toc
-INPUT ./Ausarbeitung/ehrenwörtliche_erklärung.tex
-INPUT Ausarbeitung/ehrenwörtliche_erklärung.tex
-INPUT ./Ausarbeitung/ehrenwörtliche_erklärung.tex
-INPUT Ausarbeitung/ehrenwörtliche_erklärung.tex
 INPUT ./Ausarbeitung/Aufgabenstellung.tex
 INPUT Ausarbeitung/Aufgabenstellung.tex
 INPUT ./Ausarbeitung/Aufgabenstellung.tex
@@ -726,6 +722,10 @@ INPUT ./Ausarbeitung/Aufgabe3.tex
 INPUT Ausarbeitung/Aufgabe3.tex
 INPUT ./Ausarbeitung/Aufgabe3.tex
 INPUT Ausarbeitung/Aufgabe3.tex
+INPUT ./Ausarbeitung/ehrenwörtliche_erklärung.tex
+INPUT Ausarbeitung/ehrenwörtliche_erklärung.tex
+INPUT ./Ausarbeitung/ehrenwörtliche_erklärung.tex
+INPUT Ausarbeitung/ehrenwörtliche_erklärung.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
