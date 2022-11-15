@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1668531048 "/home/ossi/github/Marketing/main.tex" "main.pdf" "main" 1668531049
+["pdflatex"] 1668534090 "/home/ossi/github/Marketing/main.tex" "main.pdf" "main" 1668534091
   "/home/ossi/github/Marketing/main.tex" 1668524248 1550 ac12f43da3280d71bf817e7c607d60bb ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1650183167 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1650183167 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -101,16 +101,16 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1667925064 334215 ad2feb41952e3720830b65f83a01c5b0 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1667925064 2927665 9061c8d6ca65bafc3705c48cf216fdd8 ""
-  "Ausarbeitung/Aufgabe1.tex" 1668531048 12559 1a7a9f3ff68a83969cbaf03cd61640ee ""
+  "Ausarbeitung/Aufgabe1.tex" 1668534089 18761 1bce8367ba03bf22eea94533546ea2d0 ""
   "Ausarbeitung/Aufgabe2.tex" 0 -1 0 ""
   "Ausarbeitung/Aufgabe3.tex" 0 -1 0 ""
   "Ausarbeitung/Aufgabenstellung.tex" 1668524248 2336 6e06d8c1cc39e4282fb9963922893503 ""
   "Ausarbeitung/Titelseite.tex" 1668524248 1299 dc6d2169a9b2ce69c90e6498ca73f936 ""
   "Ausarbeitung/ehrenwörtliche_erklärung.tex" 1668526250 1758 6680f008d620109ba723d4e5b72e93f6 ""
-  "main.aux" 1668531049 6043 ddcb3dd0397eabbe7580824fe3dd581d "pdflatex"
+  "main.aux" 1668534091 6046 833441edea85e33427727b96fc6d738b "pdflatex"
   "main.out" 0 -1 0 "pdflatex"
   "main.tex" 1668524248 1550 ac12f43da3280d71bf817e7c607d60bb ""
-  "main.toc" 1668531049 1260 ee865693b004ea1e0627f8e52f7979a3 "pdflatex"
+  "main.toc" 1668534091 1261 b5280bfaf031e4134fde329c727d5bf0 "pdflatex"
   "tu_logo.jpg" 1668524248 65010 33fe856df9b89464938ac16cdb4721cb ""
   (generated)
   "main.aux"
