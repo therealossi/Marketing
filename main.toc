@@ -5,15 +5,15 @@
 \contentsline {subsection}{\numberline {1.3}Teil 3}{4}{subsection.1.3}%
 \contentsline {section}{\numberline {2}Teil 1}{5}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Kundenorientierung}{5}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Zielgruppe}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.2}Zielgruppe}{6}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Kundenzufriedenheit}{6}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Kundennutzen}{6}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Kundenvorteil}{7}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Marketingstrategie}{7}{subsection.2.6}%
-\contentsline {subsection}{\numberline {2.7}Produktpolitik}{8}{subsection.2.7}%
-\contentsline {subsection}{\numberline {2.8}Preispolitik}{8}{subsection.2.8}%
-\contentsline {subsection}{\numberline {2.9}Kommunikationspolitik}{9}{subsection.2.9}%
-\contentsline {subsection}{\numberline {2.10}Vertriebspolitik}{10}{subsection.2.10}%
-\contentsline {section}{\numberline {3}Teil 2}{10}{section.3}%
-\contentsline {section}{\numberline {4}Teil 3}{11}{section.4}%
+\contentsline {subsection}{\numberline {2.4}Kundennutzen}{7}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Kundenvorteil}{8}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Marketingstrategie}{9}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Produktpolitik}{9}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Preispolitik}{10}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Kommunikationspolitik}{11}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Vertriebspolitik}{12}{subsection.2.10}%
+\contentsline {section}{\numberline {3}Teil 2}{12}{section.3}%
+\contentsline {section}{\numberline {4}Teil 3}{13}{section.4}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
