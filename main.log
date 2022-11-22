@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.22)  22 NOV 2022 13:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.22)  22 NOV 2022 21:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -617,7 +617,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 37.
 LaTeX Info: Redefining \pageref on input line 37.
 LaTeX Info: Redefining \nameref on input line 37.
- (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -708,11 +707,12 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
 Package biblatex Info: Reference section=0 on input line 37.
 Package biblatex Info: Reference segment=0 on input line 37.
- (./Ausarbeitung/Titelseite.tex
+(./Ausarbeitung/Titelseite.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -780,16 +780,15 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./tu_logo.jpg>] (./main.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 3.
-)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./tu_logo.jpg>]
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
 ) [2
 
 ] (./Ausarbeitung/Aufgabenstellung.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 4.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 20.
  (/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -797,40 +796,148 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 26.
  (/usr/share/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [3] [4]) (./Ausarbeitung/Aufgabe1.tex [5]
+) [3] [4]) (./Ausarbeitung/Aufgabe1.tex
+
+LaTeX Warning: Citation 'Bruhn2016' on page 5 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'Staudacher2021' on page 5 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Olbrich2022' on page 5 undefined on input line 66.
+
+[5]
+
+LaTeX Warning: Citation 'Bruhn2019' on page 6 undefined on input line 78.
+
+
 Overfull \hbox (2.17972pt too wide) in paragraph at lines 71--79
 []\T1/lmss/m/n/10.95 ^^DZielgruppen sind nicht mit Markt-seg-men-ten gleich-zu-set-zen. Wäh-rend bei der Markt-
  []
 
-[6] [7] [8] [9] [10] [11] [12])
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 43.
- (./Ausarbeitung/ehrenwÃ¶rtliche_erklÃ¤rung.tex
-<Ausarbeitung/Unterschriften/Marius_Unterschrift.png, id=161, 122.4575pt x 50.1875pt>
+[6]
+
+LaTeX Warning: Citation 'Olbrich2022' on page 7 undefined on input line 104.
+
+
+LaTeX Warning: Citation 'Homburg2020' on page 7 undefined on input line 115.
+
+
+LaTeX Warning: Citation 'Menthe2018' on page 7 undefined on input line 145.
+
+
+Overfull \hbox (32.12314pt too wide) in paragraph at lines 142--146
+\T1/lmss/m/n/10.95 zen-ar-ten Pro-dukt-nut-zen, An-wen-dungs-nut-zen und Zu-satz-nut-zen dargestellt."[[]] 
+ []
+
+
+LaTeX Warning: Citation 'Homburg2020' on page 7 undefined on input line 154.
+
+[7]
+
+LaTeX Warning: Citation 'Olbrich2022' on page 8 undefined on input line 193.
+
+
+LaTeX Warning: Citation 'Lippold2019' on page 8 undefined on input line 206.
+
+[8]
+
+LaTeX Warning: Citation 'Olbrich2022' on page 9 undefined on input line 232.
+
+
+Overfull \hbox (3.00128pt too wide) in paragraph at lines 227--233
+\T1/lmss/m/n/10.95 welt-grö-ÿen zu ei-ner kon-kre-ten Aus-prä-gung der Marketinginstrumente."[[]] 
+ []
+
+
+LaTeX Warning: Citation 'Bruhn2019' on page 9 undefined on input line 242.
+
+[9]
+
+LaTeX Warning: Citation 'Bruhn2019' on page 10 undefined on input line 267.
+
+
+LaTeX Warning: Citation 'Homburg2020' on page 10 undefined on input line 278.
+
+
+LaTeX Warning: Citation 'Olbrich2022' on page 10 undefined on input line 318.
+
+[10]
+
+LaTeX Warning: Citation 'Bruhn2019' on page 11 undefined on input line 329.
+
+
+LaTeX Warning: Citation 'Olbrich2022' on page 11 undefined on input line 357.
+
+[11]
+
+LaTeX Warning: Citation 'Bruhn2019' on page 12 undefined on input line 370.
+
+
+LaTeX Warning: Citation 'Bruhn2019' on page 12 undefined on input line 390.
+
+
+LaTeX Warning: Citation 'Homburg2020' on page 12 undefined on input line 402.
+
+[12])
+
+LaTeX Warning: Empty bibliography on input line 43.
+
+(./Ausarbeitung/ehrenwÃ¶rtliche_erklÃ¤rung.tex
+<Ausarbeitung/Unterschriften/ossi.png, id=118, 231.86626pt x 136.51pt>
+File: Ausarbeitung/Unterschriften/ossi.png Graphic file (type png)
+<use Ausarbeitung/Unterschriften/ossi.png>
+Package pdftex.def Info: Ausarbeitung/Unterschriften/ossi.png  used on input line 16.
+(pdftex.def)             Requested size: 78.05318pt x 45.95453pt.
+<Ausarbeitung/Unterschriften/Marius_Unterschrift.png, id=120, 122.4575pt x 50.1875pt>
 File: Ausarbeitung/Unterschriften/Marius_Unterschrift.png Graphic file (type png)
 <use Ausarbeitung/Unterschriften/Marius_Unterschrift.png>
-Package pdftex.def Info: Ausarbeitung/Unterschriften/Marius_Unterschrift.png  used on input line 22.
+Package pdftex.def Info: Ausarbeitung/Unterschriften/Marius_Unterschrift.png  used on input line 23.
 (pdftex.def)             Requested size: 78.05318pt x 31.98969pt.
-) [13 <./Ausarbeitung/Unterschriften/Marius_Unterschrift.png>] (./main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+<Ausarbeitung/Unterschriften/Goeran.png, id=121, 316.18124pt x 115.43124pt>
+File: Ausarbeitung/Unterschriften/Goeran.png Graphic file (type png)
+<use Ausarbeitung/Unterschriften/Goeran.png>
+Package pdftex.def Info: Ausarbeitung/Unterschriften/Goeran.png  used on input line 30.
+(pdftex.def)             Requested size: 78.05318pt x 28.49489pt.
+<Ausarbeitung/Unterschriften/n.png, id=122, 430.60875pt x 115.43124pt>
+File: Ausarbeitung/Unterschriften/n.png Graphic file (type png)
+<use Ausarbeitung/Unterschriften/n.png>
+Package pdftex.def Info: Ausarbeitung/Unterschriften/n.png  used on input line 46.
+(pdftex.def)             Requested size: 78.05318pt x 20.92291pt.
+) [13 <./Ausarbeitung/Unterschriften/ossi.png> <./Ausarbeitung/Unterschriften/Marius_Unterschrift.png> <./Ausarbeitung/Unterschriften/Goeran.png> <./Ausarbeitung/Unterschriften/n.png>] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21357 strings out of 478238
- 392914 string characters out of 5850455
- 1248424 words of memory out of 5000000
- 39255 multiletter control sequences out of 15000+600000
- 513424 words of font info for 55 fonts, out of 8000000 for 9000
+ 21308 strings out of 478238
+ 391832 string characters out of 5850455
+ 1247900 words of memory out of 5000000
+ 39220 multiletter control sequences out of 15000+600000
+ 510619 words of font info for 54 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,10n,106p,10651b,2367s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (13 pages, 249432 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (13 pages, 248988 bytes).
 PDF statistics:
- 270 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
- 79 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 224 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
