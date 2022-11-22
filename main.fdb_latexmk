@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1668607117 "main.bcf" "main.bbl" "main" 1669119217
+["biber main"] 1668607117 "main.bcf" "main.bbl" "main" 1669119739
   "Ausarbeitung/Literatur.bib" 1668550121 1807 640aee366e287df488f56b99f6ab7cf5 ""
-  "main.bcf" 1669119217 108533 cdd43818f1f58086f43bd75015e2540a "pdflatex"
+  "main.bcf" 1669119739 108533 cdd43818f1f58086f43bd75015e2540a "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1669119215 "/home/marius/Desktop/Marketing/main.tex" "main.pdf" "main" 1669119217
+["pdflatex"] 1669119738 "/home/marius/Desktop/Marketing/main.tex" "main.pdf" "main" 1669119739
   "/etc/texmf/web2c/texmf.cnf" 1661076781 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/marius/Desktop/Marketing/main.tex" 1669118519 1724 777407555f2a46de2e0c4dbcecc9dd0f ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -132,17 +132,17 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1667906359 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1667906391 2798766 c14aec129f95fcbcbf6a40c1a316417b ""
-  "Ausarbeitung/Aufgabe1.tex" 1669028698 28475 0a0a9bf396ec7ded4321a006835d7ccf ""
+  "Ausarbeitung/Aufgabe1.tex" 1669119737 28478 780dfe9c7974ef0f9bdf32c11d8cdfbf ""
   "Ausarbeitung/Aufgabenstellung.tex" 1668545821 2336 6e06d8c1cc39e4282fb9963922893503 ""
   "Ausarbeitung/Titelseite.tex" 1668545821 1299 dc6d2169a9b2ce69c90e6498ca73f936 ""
   "Ausarbeitung/Unterschriften/Marius_Unterschrift.png" 1669119079 2001 ed76c02004373821e7e8756cb594a5f8 ""
   "Ausarbeitung/ehrenwörtliche_erklärung.tex" 1669119215 1863 3e26888497ba3134313d30502bd7c667 ""
-  "main.aux" 1669119217 7891 7b597d5335c2b5fb18d8b2b72beb3d44 "pdflatex"
+  "main.aux" 1669119739 7891 7b597d5335c2b5fb18d8b2b72beb3d44 "pdflatex"
   "main.bbl" 1668607118 7913 552b66a95a3116b92a2cfdbfa3c3132e "biber main"
-  "main.out" 1669119216 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1669119217 2353 01028b1d13e086a5253e1445e92ea274 "pdflatex"
+  "main.out" 1669119739 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1669119739 2353 01028b1d13e086a5253e1445e92ea274 "pdflatex"
   "main.tex" 1669118519 1724 777407555f2a46de2e0c4dbcecc9dd0f ""
-  "main.toc" 1669119217 1264 8ebb9ce593a3ea8dc3a18d462ba19083 "pdflatex"
+  "main.toc" 1669119739 1264 8ebb9ce593a3ea8dc3a18d462ba19083 "pdflatex"
   "tu_logo.jpg" 1668545821 65010 33fe856df9b89464938ac16cdb4721cb ""
   (generated)
   "main.aux"
