@@ -14,6 +14,4 @@
 \contentsline {subsection}{\numberline {2.8}Preispolitik}{10}{subsection.2.8}%
 \contentsline {subsection}{\numberline {2.9}Kommunikationspolitik}{11}{subsection.2.9}%
 \contentsline {subsection}{\numberline {2.10}Vertriebspolitik}{12}{subsection.2.10}%
-\contentsline {section}{\numberline {3}Teil 2}{13}{section.3}%
-\contentsline {section}{\numberline {4}Teil 3}{14}{section.4}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
