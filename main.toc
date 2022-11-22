@@ -14,9 +14,4 @@
 \contentsline {subsection}{\numberline {2.8}Preispolitik}{10}{subsection.2.8}%
 \contentsline {subsection}{\numberline {2.9}Kommunikationspolitik}{11}{subsection.2.9}%
 \contentsline {subsection}{\numberline {2.10}Vertriebspolitik}{12}{subsection.2.10}%
-\contentsline {section}{\numberline {3}Teil 2}{13}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Namen des Unternehmen mit Slogan}{13}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Logo}{13}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Art der Leistung}{13}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Zielgruppe}{13}{subsection.3.4}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
