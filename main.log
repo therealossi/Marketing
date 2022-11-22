@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.22)  22 NOV 2022 21:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.22)  22 NOV 2022 21:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -899,12 +899,17 @@ File: Ausarbeitung/Unterschriften/Goeran.png Graphic file (type png)
 <use Ausarbeitung/Unterschriften/Goeran.png>
 Package pdftex.def Info: Ausarbeitung/Unterschriften/Goeran.png  used on input line 30.
 (pdftex.def)             Requested size: 78.05318pt x 28.49489pt.
-<Ausarbeitung/Unterschriften/n.png, id=122, 430.60875pt x 115.43124pt>
+<Ausarbeitung/Unterschriften/ron.png, id=122, 316.18124pt x 115.43124pt>
+File: Ausarbeitung/Unterschriften/ron.png Graphic file (type png)
+<use Ausarbeitung/Unterschriften/ron.png>
+Package pdftex.def Info: Ausarbeitung/Unterschriften/ron.png  used on input line 40.
+(pdftex.def)             Requested size: 65.04366pt x 23.74457pt.
+<Ausarbeitung/Unterschriften/n.png, id=123, 430.60875pt x 115.43124pt>
 File: Ausarbeitung/Unterschriften/n.png Graphic file (type png)
 <use Ausarbeitung/Unterschriften/n.png>
-Package pdftex.def Info: Ausarbeitung/Unterschriften/n.png  used on input line 46.
+Package pdftex.def Info: Ausarbeitung/Unterschriften/n.png  used on input line 47.
 (pdftex.def)             Requested size: 78.05318pt x 20.92291pt.
-) [13 <./Ausarbeitung/Unterschriften/ossi.png> <./Ausarbeitung/Unterschriften/Marius_Unterschrift.png> <./Ausarbeitung/Unterschriften/Goeran.png> <./Ausarbeitung/Unterschriften/n.png>] (./main.aux)
+) [13 <./Ausarbeitung/Unterschriften/ossi.png> <./Ausarbeitung/Unterschriften/Marius_Unterschrift.png> <./Ausarbeitung/Unterschriften/Goeran.png> <./Ausarbeitung/Unterschriften/ron.png> <./Ausarbeitung/Unterschriften/n.png>] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -926,18 +931,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21308 strings out of 478238
- 391832 string characters out of 5850455
+ 21315 strings out of 478238
+ 392080 string characters out of 5850455
  1247900 words of memory out of 5000000
- 39220 multiletter control sequences out of 15000+600000
+ 39226 multiletter control sequences out of 15000+600000
  510619 words of font info for 54 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,10n,106p,10651b,2367s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (13 pages, 248988 bytes).
+Output written on main.pdf (13 pages, 257018 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
+ 226 PDF objects out of 1000 (max. 8388607)
  187 compressed objects within 2 object streams
  71 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 

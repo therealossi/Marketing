@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber main"] 1669148706 "main.bcf" "main.bbl" "main" 1669148706
-  "main.bcf" 1669148706 108533 cdd43818f1f58086f43bd75015e2540a "pdflatex"
+["biber main"] 1669149069 "main.bcf" "main.bbl" "main" 1669149069
+  "main.bcf" 1669149069 108533 cdd43818f1f58086f43bd75015e2540a "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1669148705 "/home/ossi/github/Marketing/main.tex" "main.pdf" "main" 1669148705
+["pdflatex"] 1669149068 "/home/ossi/github/Marketing/main.tex" "main.pdf" "main" 1669149068
   "/home/ossi/github/Marketing/main.tex" 1669148106 1725 1f3a57a3f9a1c7a5e6a3fb6d2b923477 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1650183167 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1650183167 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -133,8 +133,9 @@
   "Ausarbeitung/Unterschriften/Marius_Unterschrift.png" 1669146785 2001 ed76c02004373821e7e8756cb594a5f8 ""
   "Ausarbeitung/Unterschriften/n.png" 1669146991 31295 afd6a8067982d1aa20ae3341f8e90592 ""
   "Ausarbeitung/Unterschriften/ossi.png" 1669146920 2906 24ffe2828d2e313137a460f1d8c7e60a ""
-  "Ausarbeitung/ehrenwörtliche_erklärung.tex" 1669147853 2137 d30cfe139ba7e110647396649bf5e7af ""
-  "main.aux" 1669148705 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Ausarbeitung/Unterschriften/ron.png" 1669148882 10942 29bcd99da856dd8d4fa084efe754c390 ""
+  "Ausarbeitung/ehrenwörtliche_erklärung.tex" 1669148973 2228 6e1512e9fbe67b542060ff68747f9153 ""
+  "main.aux" 1669149068 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
   "main.out" 0 -1 0 "pdflatex"
   "main.run.xml" 0 -1 0 "pdflatex"
