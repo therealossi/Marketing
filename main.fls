@@ -848,6 +848,10 @@ INPUT ./Ausarbeitung/Aufgabe1.tex
 INPUT Ausarbeitung/Aufgabe1.tex
 INPUT ./Ausarbeitung/Aufgabe1.tex
 INPUT Ausarbeitung/Aufgabe1.tex
+INPUT ./Ausarbeitung/Aufgabe2.tex
+INPUT Ausarbeitung/Aufgabe2.tex
+INPUT ./Ausarbeitung/Aufgabe2.tex
+INPUT Ausarbeitung/Aufgabe2.tex
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT ./Ausarbeitung/ehrenwörtliche_erklärung.tex
 INPUT Ausarbeitung/ehrenwörtliche_erklärung.tex
