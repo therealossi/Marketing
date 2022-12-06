@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1670161164 "main.bcf" "main.bbl" "main" 1670161164
-  "main.bcf" 1670161164 108533 cdd43818f1f58086f43bd75015e2540a "pdflatex"
+["biber main"] 1670235149 "main.bcf" "main.bbl" "main" 1670235149
+  "main.bcf" 1670235148 108181 a1884e84289d7de9cff44c18e7bbaa87 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1670161163 "/home/ossi/github/Marketing/main.tex" "main.pdf" "main" 1670161163
-  "/home/ossi/github/Marketing/main.tex" 1670160453 1723 e85e700c1aa4b567c873f4bdb3c5cf5e ""
+["pdflatex"] 1670235147 "/home/ossi/github/Marketing/main.tex" "main.pdf" "main" 1670235147
+  "/home/ossi/github/Marketing/main.tex" 1670235146 1725 4a71dbcee654c711e7d5cf9c194ec6e2 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1650183167 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1650183167 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1650183167 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -136,11 +136,11 @@
   "Ausarbeitung/Unterschriften/ossi.png" 1670160453 2906 24ffe2828d2e313137a460f1d8c7e60a ""
   "Ausarbeitung/Unterschriften/ron.png" 1670160453 10942 29bcd99da856dd8d4fa084efe754c390 ""
   "Ausarbeitung/ehrenwörtliche_erklärung.tex" 1670160453 2330 1341cf259c9004533634448fae0ece0c ""
-  "main.aux" 1670161163 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.aux" 1670235147 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
   "main.out" 0 -1 0 "pdflatex"
   "main.run.xml" 0 -1 0 "pdflatex"
-  "main.tex" 1670160453 1723 e85e700c1aa4b567c873f4bdb3c5cf5e ""
+  "main.tex" 1670235146 1725 4a71dbcee654c711e7d5cf9c194ec6e2 ""
   "tu_logo.jpg" 1670160453 65010 33fe856df9b89464938ac16cdb4721cb ""
   (generated)
   "main.aux"
